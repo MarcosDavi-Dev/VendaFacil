@@ -1,2 +1,3 @@
 # VendaFacil
-Exercício de fixação de formulário em HTML e CSS
+
+Formulário básico para venda de carro, feito apenas com HTML e CSS.
